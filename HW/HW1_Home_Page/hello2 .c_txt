@@ -1,3 +1,4 @@
+//author* STEPHEN DUFFY
 #include<stdio.h>       //Pre-processor directive
 #include <sys/time.h>
 struct timeval tv;
