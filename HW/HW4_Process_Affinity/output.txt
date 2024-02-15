@@ -1,7 +1,7 @@
 reading in data
 finished reading data
-Time Elapsed: 21s 555743us 
+Time Elapsed: 25s 165154us 
 first attempt found 300032* k
-Time Elapsed: 0s 248155us 
+Time Elapsed: 1s 733502us 
 second attempt found 300032* k
-Time Elapsed: 0s 285658us 
+Time Elapsed: 0s 269067us 

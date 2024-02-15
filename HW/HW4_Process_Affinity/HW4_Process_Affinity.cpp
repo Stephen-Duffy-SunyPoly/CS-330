@@ -48,13 +48,14 @@ int main() {
 	Timer t1,t2;
 	t1.startTimer();
 
-	cpu_set_t thisProcAffinity;
-	sched_getaffinity(0,sizeof(cpu_set_t),&thisProcAffinity);
+	cpu_set_t mask;
+	CPU_ZERO(&mask);
+	CPU_SET(0,&mask);
 
 	for(int i=0;i<numForks;i++){
 		if(fork() ==0){
 			//set affinity here
-			sched_setaffinity(0,sizeof(cpu_set_t),&thisProcAffinity);
+			sched_setaffinity(0,sizeof(cpu_set_t),&mask);
 
 			volatile int num = 0;//the number of chars found
 			int limit = perProcWorkLoad*(i+1);//were to search to in the string
