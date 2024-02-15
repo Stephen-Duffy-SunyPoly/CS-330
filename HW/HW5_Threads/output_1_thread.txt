@@ -1,0 +1,9 @@
+What char do you want to search for? How many threads do you want to use? Input file name: 
+Searching for char D using 1 threads in the file input.txt
+Found the char D 10252240 times
+File read time:
+Time Elapsed: 26s 81056us 
+Counting time:
+Time Elapsed: 2s 47536us 
+Total runtime:
+Time Elapsed: 28s 128592us 
