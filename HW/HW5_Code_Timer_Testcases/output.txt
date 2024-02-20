@@ -1,0 +1,6 @@
+Test Case start: 3s 999999us
+Test Case end: 4s 1us
+Test Case: Time Elapsed: 0s 2us
+hello world
+WASTING TIME! 999999
+Time Elapsed: 118s 161069us
