@@ -1,0 +1,14 @@
+What char do you want to search for? r
+How many threads do you want to use? 4
+Input file name: ../input.txt
+Enter niceness value: -10
+
+Searching for char r using 4 threads in the file ../input.txt with a nice value of: -10
+File read time:
+Time Elapsed: 56s 156739us
+processing File Using Threads:
+Found the char r 10260258 times
+Counting time:
+Time Elapsed: 14s 34298us
+processing file using Forks:
+Time Elapsed: 15s 449773us
