@@ -1,0 +1,33 @@
+Stephen Duffy duffysd
+CS330 4pm TR
+HW7_Scheduling
+
+6) 
+	a) (1-(w^n)) / n = pre process CPU useage at point in time
+		(pre process CPU useage at point in time) * ("wall" time) = total cpu useage for a given time
+		p1	0.8 + 2.56 + 0.5227 + 0.64 = 3.8827
+		p2	2.56 + 0.5227 = 3.0827
+		p3	0.5227 + 0.64 + 0.8 = 1.9627
+	b)
+		(14 + 10 + 6) / 3 = 10
+		
+7)	((1-(w^1))/1 ) * 2 = 0.8
+	1-(w) = 0.8/2
+	-w = (0.8/2)-1
+	w = -(0.8/2)+1
+	w = 0.6
+	
+ 8)
+	no. the multi programing focus of the linux kernal could cause deadlines to be missed even if the process is set to near real time.
+	
+9)
+	u= n*(2^1/n -1)
+	u = 2 *(2^0.5 -1)
+	u = 0.8284
+	
+	u = e1 / r1 + e2 / r2
+	u = 2 / 8 + 6.01/10
+	u = 0.851
+	0.8284 IS NOT EQUAL TO 0.851
+	Becasue the U's are not equal this system is not safe
+	
