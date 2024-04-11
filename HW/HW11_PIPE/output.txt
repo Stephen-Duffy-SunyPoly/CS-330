@@ -1,0 +1,40 @@
+start produce
+work opend
+log file readdy
+sem name Readdy
+created sem 0 0 0x7f14fd120000 value: 2
+created sem 0 1 0x7f14fd0e6000 value: 2
+created sem 0 2 0x7f14fd0e5000 value: 2
+created sem 0 3 0x7f14fd0e4000 value: 2
+created sem 1 0 0x7f14fd0e3000 value: 0
+created sem 1 1 0x7f14fd0e2000 value: 0
+created sem 1 2 0x7f14fd0e1000 value: 0
+created sem 1 3 0x7f14fceb4000 value: 0
+sems readdy
+Producer starting work
+
+sending string: work1,2804289383 length: 16 to: 0
+sending string: work2,1846930886 length: 16 to: 1
+sending string: work3,2681692777 length: 16 to: 2
+sending string: work4,2714636915 length: 16 to: 3
+sending string: work5,2957747793 length: 16 to: 1
+sending string: work6,1424238335 length: 16 to: 2
+sending string: work7,1719885386 length: 16 to: 3
+sending string: work8,2649760492 length: 16 to: 0
+sending string: work9,1596516649 length: 16 to: 2
+sending string: work10,2189641421 length: 17 to: 3
+sending string: work11,2025202362 length: 17 to: 1
+sending string: work12,2350490027 length: 17 to: 0
+sending string: work13,1783368690 length: 17 to: 2
+sending string: work14,2102520059 length: 17 to: 3
+sending string: work15,3044897763 length: 17 to: 1
+sending string: work16,2967513926 length: 17 to: 2
+sending string: work17,2365180540 length: 17 to: 0
+sending string: work18,2540383426 length: 17 to: 3
+sending string: work19,1304089172 length: 17 to: 1
+sending string: work20,2303455736 length: 17 to: 0
+sending string: work21,1035005211 length: 17 to: 2
+sending string: work22,1521595368 length: 17 to: 1
+sending string: work23,1294702567 length: 17 to: 3
+sending string: work24,2726956429 length: 17 to: 2
+sending string: work25,1336465782 length: 17 to: 0
