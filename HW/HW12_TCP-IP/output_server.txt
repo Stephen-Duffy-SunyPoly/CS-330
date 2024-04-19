@@ -1,0 +1,34 @@
+(S)erver or (C)lient?
+S
+port?: 12345
+
+Waiting for client to connect
+client connected
+waiting for client to respond
+
+Message from client: Hey!
+Send message to client: Hi
+waiting for client to respond
+
+Message from client: This assignment was eazy
+Send message to client: yea
+waiting for client to respond
+
+Message from client: if only this code worked cross platform
+Send message to client: that would have made testing this mutch ezyer
+waiting for client to respond
+
+Message from client: is it really that hard to make a library that can wrap the win32 API calls to look like the POSIX ones?
+Send message to client: who has the time for that
+waiting for client to respond
+
+Message from client: not me, but you know what I do have time for?
+Send message to client: no
+waiting for client to respond
+
+Message from client: this message
+Send message to client: NO!!!!!!!
+waiting for client to respond
+
+Message from client: from our sponcer
+Send message to client: exit
